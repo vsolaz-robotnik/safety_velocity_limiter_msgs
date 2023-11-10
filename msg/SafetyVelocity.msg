@@ -1,2 +1,2 @@
 string mode
-geometry_msgs/Twist config
+geometry_msgs/Pose2D config
